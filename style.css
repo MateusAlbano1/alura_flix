@@ -70,7 +70,7 @@ body {
 }
 
 .secundario_imagem{
-  width: 80%
+  width: 80%;
 }
 
 .secundario{
@@ -99,7 +99,7 @@ body {
 }
 
 .dispositivo{
-  text-align: center
+  text-align: center;
 }
 
 .dispositvo_lista{
@@ -116,7 +116,7 @@ body {
 
 .lista_item{
   font-size: 32px;
-  color: var(--branco-principla)
+  color: var(--branco-principla);
 }
 
 .rodape{
