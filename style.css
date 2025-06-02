@@ -74,7 +74,7 @@ body {
 }
 
 .secundario{
-  align-items: cender;
+  align-items: center;
   margin: 0 10em;
 }
 
@@ -111,7 +111,7 @@ body {
 
 .dispositivo_titulo{
   font-size:40px;
-  color: var(-branco-principal);
+  color: var(--branco-principal);
 }
 
 .lista_item{
